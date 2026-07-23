@@ -60,29 +60,6 @@ whoami:
 </p>
 
 <!-- ============================================================ -->
-<!--                     GITHUB STATS                               -->
-<!-- ============================================================ -->
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zeetosit&show_icons=true&count_private=true&hide_border=true&bg_color=09090b&title_color=38BDF8&icon_color=818cf8&text_color=cbd5e1&ring_color=38BDF8" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeetosit&layout=compact&hide_border=true&bg_color=09090b&title_color=38BDF8&text_color=cbd5e1&langs_count=8" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeetosit&hide_border=true&background=09090b&ring=38BDF8&fire=818cf8&currStreakLabel=38BDF8&sideLabels=cbd5e1&currStreakNum=cbd5e1&sideNums=cbd5e1&dates=64748b" width="100%"/>
-
-</div>
-
-<!-- ============================================================ -->
-<!--                     ACTIVITY GRAPH                            -->
-<!-- ============================================================ -->
-### 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeetosit&theme=react-dark&hide_border=true&bg_color=09090b&color=38BDF8&line=818cf8&point=ffffff" width="100%"/>
-</div>
-
-<!-- ============================================================ -->
 <!--                     CONNECT                                   -->
 <!-- ============================================================ -->
 ### 🌐 Connect with Me
