@@ -25,7 +25,7 @@
 <!-- ============================================================ -->
 ### 🧑‍💻 About Me
 
-<img align="right" width="420" src="https://raw.githubusercontent.com/mikechabot/mikechabot/master/computer-guy.gif" />
+<img align="right" width="220" src="https://raw.githubusercontent.com/mikechabot/mikechabot/master/computer-guy.gif" />
 
 ```yaml
 whoami:
